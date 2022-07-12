@@ -1,0 +1,27 @@
+body{
+background-color: rgb(240, 240, 212);
+}
+
+.goose {
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+hr{
+    color: rgb(26, 79, 213);
+
+}
+
+h1{
+
+    text-align: center;
+}
+
+h2{
+    margin-left: 70px;
+    color: rgb(205, 139, 16);
+}
+
+p{
+    margin-left: 70px;
+}
